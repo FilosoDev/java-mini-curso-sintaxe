@@ -1,6 +1,6 @@
 import java.lang.Math;
 
-public class Operadores {
+public class OperadoresAritméticos {
 
 	public static void main(String[] args) {
 		
