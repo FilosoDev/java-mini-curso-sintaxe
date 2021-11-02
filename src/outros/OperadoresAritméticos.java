@@ -1,3 +1,4 @@
+package outros;
 import java.lang.Math;
 
 public class OperadoresAritméticos {
