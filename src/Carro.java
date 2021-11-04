@@ -7,8 +7,8 @@ public class Carro {
 	public int ano = 1987;
 	
 	String[] acessorios = { 
-			" Faróis de LED", 
-			" Suporte para o celular", 
+			"Faróis de LED", 
+			"Suporte para o celular", 
 			"Bagageiro de teto cromado",
 			"Calota Gran Luxo" 
 	};

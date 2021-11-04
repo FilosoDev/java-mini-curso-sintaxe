@@ -16,7 +16,7 @@ public class TestaCarro {
 		
 		Scanner entrada = new Scanner(System.in);
 		System.out.println("Digite a kilometragem: ");
-		int km = entrada.nextInt();
+		double km = entrada.nextDouble();
 		
 		System.out.println(carroUm.calculaConsumo(km));
 		
@@ -24,6 +24,7 @@ public class TestaCarro {
 			System.out.println(carroUm.acessorios[x]);
 		}
 		
+		//getters setters
 		carroUm.nome = "Ferrari";
 		System.out.println(carroUm.nome);
 	}
